@@ -2,6 +2,7 @@ require "rubygems"
 require 'rake'
 require 'yaml'
 require 'time'
+require 'Hz2py'
 
 SOURCE = "."
 CONFIG = {
@@ -47,6 +48,8 @@ task :post do
   title = ENV["title"] || "new-post"
   tags = ENV["tags"] || "[]"
   category = ENV["category"] || ""
+  # 新增用来将汉字转换成拼音，因为url好像不支持中文。当然在文件顶部require了Hz2py
+  slug = Hz2py.do(title, :join_with => '-', :to_simplified => true)
   slug = title.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')
   begin
     date = (ENV['date'] ? Time.parse(ENV['date']) : Time.now).strftime('%Y-%m-%d')
