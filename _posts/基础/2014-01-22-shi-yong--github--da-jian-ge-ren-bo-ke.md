@@ -70,12 +70,16 @@ jekyll-bootstrap 标题不支持中文，分类也不支持
 
 
 #### 如何查看创建的所有文章
+在Rakefile添加这一功能：[TODO:]
 
 #### 如何修改文章的标题
 
 #### 删除一篇文章
 
 直接删掉_posts目录下得文章即可。
+```sh
+    git rm _posts/xxx.md
+```
 
 
 
