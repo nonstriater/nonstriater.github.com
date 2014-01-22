@@ -22,6 +22,12 @@ tags: []
 
 [苹果的开发者文档](https://developer.apple.com/library/prerelease/ios/navigation/)  
 
+<http://qualitycoding.org/>  ios dev  
+<http://iosunittesting.com/>  ios unit test   
+<http://cocoadevcentral.com/>  max ox     
+<http://nshipster.com/>  oc & cocoa   
+<http://www.cocoawithlove.com/>  
+
 
 <br/>
 ###个人博客
@@ -44,13 +50,6 @@ tags: []
 <http://joeyio.com/> @拓词Joey
 
 
-<http://qualitycoding.org/>  ios dev  
-<http://iosunittesting.com/>  ios unit test   
-<http://cocoadevcentral.com/>  max ox     
-<http://nshipster.com/>  oc & cocoa   
-<http://www.cocoawithlove.com/>       
-
-
 
 <br/>
 ###设计灵感
@@ -67,11 +66,17 @@ tags: []
 <http://www.3366.com/>      
 <http://www.4399.com/>    
 
+https://koding.com  在线编程平台，社区。提供一台免费的虚拟机
+
 <br/>
 ###书籍
 《Cocos2d-x高级开发教程》    
 《Objective-C高级编程:iOS与OS X多线程和内存管理》  
 《Cocoa 设计模式》    
+
+《Test-Driven iOS Development》
+《Test-Driven Development By Example》 测试驱动开发
+《代码的未来》
 
 <br/>
 ###其他资源
