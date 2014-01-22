@@ -71,18 +71,18 @@ pod outdated       检查是否有更新，有的话，我们可以使用pod upd
 <br/>
 ###使用过程的几个问题
 
-问题1 ：我们在项目中使用头文件的时候（import），没有提示且找不到头文件？
+**问题1 ：我们在项目中使用头文件的时候（import），没有提示且找不到头文件？**
 
 设置头文件的目录，在项目的Target的里设置一下”User header Search Paths“：${SRCROOT},后面选上recursive。
 
 <br/>
-问题2：The platform of the target `Pods` (iOS 4.3) is not compatible with 。。。。
+**问题2：The platform of the target `Pods` (iOS 4.3) is not compatible with 。。。。**
 
 这是因为一些第三方库最低版本号大于Pods的版本号不兼容导致的，打开项目中 Podfile 文件   修改其 iOS平台为对应平台，如iOS5.0，podfile没写时默认是4.3.
 
 <br/>
-问题3：Undefined symbols for architecture armv7:
-"_OBJC_METACLASS_$_AFHTTPClient", referenced from。。
+**问题3：Undefined symbols for architecture armv7:
+"_OBJC_METACLASS_$_AFHTTPClient", referenced from。。**
 
 这是因为AFNetworking在2.0x以后去掉了AFHTTPClient类，加入了对NSURLSession的支持。在podfile中修改afnetworking的版本为1.3.3之后，任然出现了问题：
 
@@ -90,7 +90,7 @@ pod outdated       检查是否有更新，有的话，我们可以使用pod upd
 
 
 <br/>
-问题4：Unknown class 【GMGridView】 in Interface Builder file。在sb布局里面用到了GMGridView类。
+**问题4：Unknown class 【GMGridView】 in Interface Builder** file。在sb布局里面用到了GMGridView类。
 
 发生这种错误一般都是在xib文件里调用Framework或者是静态库存的Class, 这样直接调用是会出错的，需要在目标Target的Build Settings里设置"Other Linker Flags"成"-all_load" "-ObjC"
 
@@ -104,12 +104,12 @@ Integrating client project
 
 
 <br/>
-问题5：对于没有开源的第三方SDK的处理
+**问题5：对于没有开源的第三方SDK的处理**
 
 例如微信sdk这种，这个pod就没法管理，只能我们自己管理配置了。
 
 <br/>
-问题6：我们需要的三方库不再cocoaPods中
+**问题6：我们需要的三方库不再cocoaPods中**
 
 创建自己项目的spec描述文件。这里有篇文字参考：
 http://ishalou.com/blog/2012/10/16/how-to-create-a-cocoapods-spec-file/
