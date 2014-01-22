@@ -91,15 +91,18 @@ jekyll-bootstrap 标题不支持中文，分类也不支持
 <br/>  
 ### 个性化定制
 
+<br/>
 #### 定制域名
 
 1）  在主目录下，新建一个CNAME文件，里面写你的域名.如：“http://blog.xxx.com”  
 2)   在DNS服务商后台将你的域名指向 **204.232.175.78** ，可能要过一段时间，就可以通过域名访问你的github博客了。
 
+<br/>
 #### 个性化标签图标
 
 主目录放一个favicon.ico图标就可以了。
 
+<br/>
 ####主题themes
 
 ```sh
@@ -109,16 +112,16 @@ jekyll-bootstrap 标题不支持中文，分类也不支持
 
 <http://themes.jekyllbootstrap.com/> 提供了几个模板，你可以选择一个喜欢的安装。
 
-#### url 地址优化
 
 
+<br/>
 ####安装各种插件
 * 代码高亮
 * 分享 jiathis
 * 统计CNZZ
 * 搜索
 
-
+<br/>
 ### 问题
 
 1） push文章失败后，会收到github发来的邮件，如何解决markdown error问题？
