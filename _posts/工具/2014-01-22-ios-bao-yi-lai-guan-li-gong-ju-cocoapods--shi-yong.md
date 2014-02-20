@@ -24,6 +24,12 @@ gem install cocoaPods
  sudo gem update cocoapods
 ```
 
+安装后一遍执行下
+```sh
+    pod setup
+```
+这条命令会将Spec项目复制到当前用户的.cocoapods\master目录下,以后的查找、安装使用都是基于该本地目录的.
+
 <br/>
 ###cocoaPods使用
 
@@ -56,6 +62,16 @@ pod list             列出pod 中心所有的第三方库，截止目前，已�
 pod podfile-info  可以列出项目中pod管理的第三方库
 pod outdated       检查是否有更新，有的话，我们可以使用pod update或pod install 来更显我们的库
 ```
+
+pod repo  spec项目管理
+Commands:
+
+    * add      Add a spec repo.
+    * lint     Validates all specs in a repo.
+    * remove   Remove a spec repo
+    * update   Update a spec repo.
+
+
 
 <br/>
 #### 使用cocoaPods后项目的变化   
