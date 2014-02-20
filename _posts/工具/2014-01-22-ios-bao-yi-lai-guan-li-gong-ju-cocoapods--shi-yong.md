@@ -24,7 +24,7 @@ gem install cocoaPods
  sudo gem update cocoapods
 ```
 
-安装后一遍执行下
+安装后执行下
 ```sh
     pod setup
 ```
