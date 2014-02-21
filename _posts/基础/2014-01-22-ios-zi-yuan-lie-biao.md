@@ -100,6 +100,6 @@ free weather api ： <http://developer.worldweatheronline.com/io-docs>
 
 PS: mardown文章中得链接(<>格式)里面必须是”http“开头，而不能是“https”，坑爹啊~
 不能出现单独的"*"~
-不能出现单独的“[]”,Objective-C的方法写法带有"[]",注意写到代码块里面~ 
+不能出现单独的“中括号”,Objective-C的方法写法带有"中括号",注意写到代码块里面~ 
 
 
