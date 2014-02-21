@@ -74,9 +74,9 @@ https://koding.com  在线编程平台，社区。提供一台免费的虚拟机
 《Objective-C高级编程:iOS与OS X多线程和内存管理》  
 《Cocoa 设计模式》    
 
-《Test-Driven iOS Development》
-《Test-Driven Development By Example》 测试驱动开发
-《代码的未来》
+《Test-Driven iOS Development》  
+《Test-Driven Development By Example》 测试驱动开发  
+《代码的未来》  
 
 <br/>
 ###其他资源
@@ -99,5 +99,7 @@ free weather api ： <http://developer.worldweatheronline.com/io-docs>
 
 
 PS: mardown文章中得链接(<>格式)里面必须是”http“开头，而不能是“https”，坑爹啊~
+不能出现单独的"*"~
+不能出现单独的“[]”,Objective-C的方法写法带有"[]",注意写到代码块里面~ 
 
 
