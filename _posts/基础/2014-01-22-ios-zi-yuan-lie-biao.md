@@ -57,6 +57,11 @@ http://blog.codingnow.com/  风云的博客
 <http://www.flaticon.com/>    图标集合，还有一个PS插件   
 <http://subtlepatterns.com/>   背景纹理图案  也提供PS插件
 
+<http://pttrns.com/>  
+<http://www.mobile-patterns.com/>  
+<http://dribbble.com/search?q=ios>  
+<https://www.cocoacontrols.com/>
+
 
 小游戏灵感获取,可以上这些小游戏平台上去玩玩
 
