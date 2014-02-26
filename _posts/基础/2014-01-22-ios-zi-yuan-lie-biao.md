@@ -60,7 +60,7 @@ http://blog.codingnow.com/  风云的博客
 <http://pttrns.com/>  
 <http://www.mobile-patterns.com/>  
 <http://dribbble.com/search?q=ios>  
-<https://www.cocoacontrols.com/>
+<http://www.cocoacontrols.com/>
 
 
 小游戏灵感获取,可以上这些小游戏平台上去玩玩
