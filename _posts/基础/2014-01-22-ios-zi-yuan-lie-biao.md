@@ -13,12 +13,12 @@ tags: []
 <br/>
 ###国内
 
-<http://www.imallen.com/>     @许小帅    
-<http://beyondvincent.com/>    @破船    
-<http://onevcat.com/>       @onevcat     
-<http://lextang.com/>        @汤圣罡       
-<http://blog.devtang.com/>     @tangdev 唐巧  
-<http://www.iwangke.me/>    @王珂  独立开发者  
+<http://onevcat.com/>       @onevcat  
+<http://blog.devtang.com/>     @tangdev 唐巧   
+<http://beyondvincent.com/>    @破船         
+<http://lextang.com/>        @汤圣罡   
+<http://www.imallen.com/>     @许小帅         
+<http://www.iwangke.me/>    @王珂  独立开发者    
 <http://joeyio.com/>           @拓词Joey  
 <http://iiiyu.com/>           @Sumi-iYu(ios 萧宸宇)    
 <http://blog.xcodev.com/>  谌启亮 @腾讯 文文师哥  
@@ -63,13 +63,13 @@ http://blog.codingnow.com/  风云的博客
 <http://www.cocoacontrols.com/>
 
 
-小游戏灵感获取,可以上这些小游戏平台上去玩玩
+小游戏平台
 
 <http://flash.5068.com/wan/35829.html>  
 <http://www.3366.com/>      
 <http://www.4399.com/>    
 
-https://koding.com  在线编程平台，社区。提供一台免费的虚拟机
+
 
 <br/>
 ###书籍
@@ -83,9 +83,8 @@ https://koding.com  在线编程平台，社区。提供一台免费的虚拟机
 
 <br/>
 ###其他资源
-
+https://koding.com  在线编程平台，社区。提供一台免费的虚拟机  
 free weather api ： <http://developer.worldweatheronline.com/io-docs>   
-
 可以用来做一个天气查询app，需要注册激活deveplor身份
 
 
