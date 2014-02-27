@@ -20,15 +20,22 @@ tags: []
 <http://www.imallen.com/>     @许小帅         
 <http://www.iwangke.me/>    @王珂  独立开发者    
 <http://joeyio.com/>           @拓词Joey  
-<http://iiiyu.com/>           @Sumi-iYu(ios 萧宸宇)    
+<http://iiiyu.com/>           @Sumi-iYu(ios 萧宸宇)
+<http://www.taofengping.com/> @七五三六九 陶丰平    
 <http://blog.xcodev.com/>  谌启亮 @腾讯 文文师哥  
 <http://lianxu.me/>      @连栩 mac programmer 经营自己的公司Beyondcow(<http://www.beyondcow.com/>) 
 
-安全  
+<http://answerhuang.duapp.com/>  @answer-huang  
+<http://blog.csdn.net/ysy441088327/>  余书懿  
+<http://webfrogs.me/>    @webfrogs  
+<http://gaosboy.com/>  @高嘉峻  
+<http://cnblogs.com/biosli>  @李择一  就职百度  
+<http://luosky.com/>  @骆仕恺  
+  
 <http://wufawei.com/>       吴发伟@Ted博客,其还维护一个网站<http://news.ios-wiki.com/news> ,每周都有好的文章推荐  
 <http://danqingdani.blog.163.com/> or <http://blog.csdn.net/yiyaaixuexi/>     @碳基体  
 
-
+<http://www.iosfeed.com/>  由@许小帅 维护的一个网站，推荐一些有质量的介绍iOS的文章
 <http://cocoachina.com> 推荐看下[cocoachina每周精华](http://www.cocoachina.com/special/jinghua/)   
 <http://www.taobaotest.com/>   淘测试  
 <http://code4app.com>   分类良好的代码demo   
@@ -37,16 +44,25 @@ tags: []
 <br/>
 ###国外
 
+[Apple Developer Forums](<https://devforums.apple.com/index.jspa>)  
+<http://github.com>    
+<http://stackoverflow.com>   
+
 <http://objc.io>   
-<http://www.raywenderlich.com/zh-hans/>  
-<http://mobile.tutsplus.com/>
- 
+<http://www.raywenderlich.com/zh-hans/>   
 <http://nshipster.com/>  oc & cocoa  
+
 <http://iosunittesting.com/>  ios unit test   
 <http://cocoadevcentral.com/>  max ox     
 <http://qualitycoding.org/>  ios dev   
 <http://www.cocoawithlove.com/>  
+<http://mobile.tutsplus.com/>  
 
+<http://blog.wilshipley.com/>  Wil Shipley   
+<http://www.mattgemmell.com/> Matt Gemmell  
+<http://www.cimgf.com/>  由Marcus Zarra带领  
+<http://rentzsch.tumblr.com/> Wolf Rentzsch  
+<http://iosdevelopertips.com/> John Muchow    
 
 
 <br/>
@@ -92,13 +108,8 @@ free weather api ： <http://developer.worldweatheronline.com/io-docs>
 ###另外
 
 <http://www.weibo.com>  微博圈子
-
-<http://github.com> 网站上star的一些项目
-
-<http://stackoverflow.com>    
-
 <http://zhifu.com>  知乎
-
+   
 
 PS: mardown文章中得链接(<>格式)里面必须是”http“开头，而不能是“https”，坑爹啊~  
 不能出现单独的"星号"~  
