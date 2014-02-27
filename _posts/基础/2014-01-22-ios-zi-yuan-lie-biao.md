@@ -17,7 +17,7 @@ tags: []
 <http://www.imallen.com/>     @许小帅         
 <http://www.iwangke.me/>    @王珂  独立开发者    
 <http://joeyio.com/>           @拓词Joey  
-<http://iiiyu.com/>           @Sumi-iYu(ios 萧宸宇)
+<http://iiiyu.com/>           @Sumi-iYu(ios 萧宸宇)  
 <http://www.taofengping.com/> @七五三六九 陶丰平    
 <http://blog.xcodev.com/>  谌启亮 @腾讯 文文师哥  
 <http://lianxu.me/>      @连栩 mac programmer 经营自己的公司Beyondcow(<http://www.beyondcow.com/>) 
@@ -50,6 +50,7 @@ tags: []
 <http://www.raywenderlich.com/zh-hans/>   
 <http://nshipster.com/>  oc & cocoa  
 
+<http://rypress.com/tutorials.html> 目前内容包括objective-c,git,Math ML
 <http://iosunittesting.com/>  ios unit test   
 <http://cocoadevcentral.com/>  max ox     
 <http://qualitycoding.org/>  ios dev   
@@ -105,8 +106,8 @@ free weather api ： <http://developer.worldweatheronline.com/io-docs>
 <br/>
 ###另外
 
-<http://www.weibo.com>  微博圈子
-<http://zhifu.com>  知乎
+<http://www.weibo.com>  微博圈子  
+<http://zhifu.com>  知乎  
    
 
 PS: mardown文章中得链接(<>格式)里面必须是”http“开头，而不能是“https”，坑爹啊~  
