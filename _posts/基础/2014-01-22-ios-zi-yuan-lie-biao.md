@@ -28,12 +28,11 @@ tags: []
 <http://wufawei.com/>       吴发伟@Ted博客,其还维护一个网站<http://news.ios-wiki.com/news> ,每周都有好的文章推荐  
 <http://danqingdani.blog.163.com/> or <http://blog.csdn.net/yiyaaixuexi/>     @碳基体  
 
-http://blog.codingnow.com/  风云的博客
 
 <http://cocoachina.com> 推荐看下[cocoachina每周精华](http://www.cocoachina.com/special/jinghua/)   
 <http://www.taobaotest.com/>   淘测试  
 <http://code4app.com>   分类良好的代码demo 
-
+<http://blog.codingnow.com/>  风云的博客  
 
 <br/>
 ###国外
