@@ -8,9 +8,6 @@ tags: []
 
 
 <br/>
-###[苹果的开发者文档](https://developer.apple.com/library/prerelease/ios/navigation/) 
-
-<br/>
 ###国内
 
 <http://onevcat.com/>       @onevcat  
@@ -35,7 +32,7 @@ tags: []
 <http://wufawei.com/>       吴发伟@Ted博客,其还维护一个网站<http://news.ios-wiki.com/news> ,每周都有好的文章推荐  
 <http://danqingdani.blog.163.com/> or <http://blog.csdn.net/yiyaaixuexi/>     @碳基体  
 
-<http://www.iosfeed.com/>  由@许小帅 维护的一个网站，推荐一些有质量的介绍iOS的文章
+<http://www.iosfeed.com/>  由@许小帅 维护的一个网站，推荐一些有质量的介绍iOS的文章  
 <http://cocoachina.com> 推荐看下[cocoachina每周精华](http://www.cocoachina.com/special/jinghua/)   
 <http://www.taobaotest.com/>   淘测试  
 <http://code4app.com>   分类良好的代码demo   
@@ -44,10 +41,11 @@ tags: []
 <br/>
 ###国外
 
-[Apple Developer Forums](<https://devforums.apple.com/index.jspa>)  
+[苹果的开发者文档](https://developer.apple.com/library/prerelease/ios/navigation/)  
+[Apple Developer Forums 苹果开发者官方论坛](<https://devforums.apple.com/index.jspa>)  
 <http://github.com>    
 <http://stackoverflow.com>   
-
+  
 <http://objc.io>   
 <http://www.raywenderlich.com/zh-hans/>   
 <http://nshipster.com/>  oc & cocoa  
