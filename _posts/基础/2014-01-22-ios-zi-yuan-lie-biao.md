@@ -24,8 +24,9 @@ tags: []
 <http://blog.xcodev.com/>  谌启亮 @腾讯 文文师哥  
 <http://lianxu.me/>      @连栩 mac programmer 经营自己的公司Beyondcow(<http://www.beyondcow.com/>) 
 
-<http://wufawei.com/>       吴发伟@Ted博客  
-<http://danqingdani.blog.163.com/> or <http://blog.csdn.net/yiyaaixuexi/>     @碳基体  讲安全的妹子
+安全  
+<http://wufawei.com/>       吴发伟@Ted博客,其还维护一个网站<http://news.ios-wiki.com/news> ,每周都有好的文章推荐  
+<http://danqingdani.blog.163.com/> or <http://blog.csdn.net/yiyaaixuexi/>     @碳基体  
 
 http://blog.codingnow.com/  风云的博客
 
