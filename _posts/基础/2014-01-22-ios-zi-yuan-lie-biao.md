@@ -69,37 +69,37 @@ tags: []
 
 <br/>
 ###设计灵感
-  
+<br/>  
 * UI图标网站*
   
 <http://www.flaticon.com/>    图标集合，还有一个PS插件  
-<http://www.iconfinder.com/>
-<http://findicons.com/>
+<http://www.iconfinder.com/>  
+<http://findicons.com/>  
   
   
-* 分类的UI设计图网站*
-
-<http://pttrns.com/>   
-<http://www.mobile-patterns.com/> 
-<http://ui4app.com/>  国内
+* 分类的UI设计图网站*  
+   
+<http://pttrns.com/>    
+<http://www.mobile-patterns.com/>  
+<http://ui4app.com/>  国内  
   
 <http://dribbble.com/search?q=ios>   很多UI设计作品，聚集了很多国内外的设计大牛，不限于iOS设计。可以在知乎上看知友汇总的活跃在[dribbble上的有名设计师](http://www.zhihu.com/question/20359596)。
   
-<http://subtlepatterns.com/>   背景纹理图案  也提供PS插件
+<http://subtlepatterns.com/>   背景纹理图案  也提供PS插件  
   
 *工具*  
-[DevRocket](http://devrocket.uiparade.com/)   19$  PS插件 加速iOS UI设计
-使用google图片搜索工具：如iOS 7 style icon 
+- [DevRocket](http://devrocket.uiparade.com/)   19$  PS插件 加速iOS UI设计  
+- 使用google图片搜索工具：如iOS 7 style icon     
   
   
-*小游戏平台*
+*小游戏平台*  
   
 <http://flash.5068.com/wan/35829.html>  
 <http://www.3366.com/>      
 <http://www.4399.com/>    
-
-
-
+  
+  
+  
 <br/>
 ###书籍
 《Cocos2d-x高级开发教程》    
