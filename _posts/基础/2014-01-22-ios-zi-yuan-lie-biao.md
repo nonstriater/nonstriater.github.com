@@ -19,7 +19,7 @@ tags: []
 <http://joeyio.com/>           @拓词Joey  
 <http://iiiyu.com/>           @Sumi-iYu(ios 萧宸宇)  
 <http://www.taofengping.com/> @七五三六九 陶丰平    
-<http://blog.xcodev.com/>  谌启亮 @腾讯 文文师哥
+<http://blog.xcodev.com/>  谌启亮 @腾讯 文文师哥  
 <http://blog.rpplusplus.me/>   虾哥  
 <http://lianxu.me/>      @连栩 mac programmer 经营自己的公司Beyondcow(<http://www.beyondcow.com/>) 
 
