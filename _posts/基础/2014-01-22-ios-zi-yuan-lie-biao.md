@@ -70,14 +70,14 @@ tags: []
 <br/>
 ###设计灵感
 <br/>  
-* UI图标网站*
+*UI图标网站*
   
 <http://www.flaticon.com/>    图标集合，还有一个PS插件  
 <http://www.iconfinder.com/>  
 <http://findicons.com/>  
   
   
-* 分类的UI设计图网站*  
+*分类的UI设计图网站*  
    
 <http://pttrns.com/>    
 <http://www.mobile-patterns.com/>  
