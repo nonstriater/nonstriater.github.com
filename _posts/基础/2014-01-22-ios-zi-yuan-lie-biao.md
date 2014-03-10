@@ -51,7 +51,7 @@ tags: []
 <http://www.raywenderlich.com/zh-hans/>   
 <http://nshipster.com/>  oc & cocoa  
 
-<http://rypress.com/tutorials.html> 目前内容包括objective-c,git,Math ML
+<http://rypress.com/tutorials.html> 目前内容包括objective-c,git,Math ML  
 <http://iosunittesting.com/>  ios unit test   
 <http://cocoadevcentral.com/>  max ox     
 <http://qualitycoding.org/>  ios dev   
