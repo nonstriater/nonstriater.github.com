@@ -132,7 +132,7 @@ http://stackoverflow.com/questions/tagged/ios
 <br/>
 ###其他资源
 https://koding.com  在线编程平台，社区。提供一台免费的虚拟机 
-<https://www.zybuluo.com/mdeditor>  不错的markdown在线编辑阅读器 
+https://www.zybuluo.com/mdeditor  不错的markdown在线编辑阅读器 
 <http://developer.worldweatheronline.com/io-docs>   
 free weather api  可以用来做一个天气查询app，需要注册激活deveplor身份
 
