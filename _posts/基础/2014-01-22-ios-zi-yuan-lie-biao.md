@@ -79,10 +79,10 @@ tags: []
 学到个不错的学习方法，去stackoverflow上刷iOS问题，还能顺便练习英语。
 
 除了访问Stack Overflow主站以外，还可以使用标签来浏览iOS开发的相关主题：
-http://stackoverflow.com/questions/tagged/objective-c  
-http://stackoverflow.com/questions/tagged/iphone  
-http://stackoverflow.com/questions/tagged/xcode  
-http://stackoverflow.com/questions/tagged/ios  
+<http://stackoverflow.com/questions/tagged/objective-c>  
+<http://stackoverflow.com/questions/tagged/iphone>  
+<http://stackoverflow.com/questions/tagged/xcode>  
+<http://stackoverflow.com/questions/tagged/ios>  
 
 
 <br/>
@@ -131,14 +131,14 @@ http://stackoverflow.com/questions/tagged/ios
 
 <br/>
 ###其他资源
-https://koding.com  在线编程平台，社区。提供一台免费的虚拟机 
-https://www.zybuluo.com/mdeditor  不错的markdown在线编辑阅读器 
+[在线编程koding](https://koding.com)  在线编程平台，社区。提供一台免费的虚拟机 
+不错的markdown在线编辑阅读器-[mdeditor](https://www.zybuluo.com/mdeditor)  
 <http://developer.worldweatheronline.com/io-docs>   
-free weather api  可以用来做一个天气查询app，需要注册激活deveplor身份
-
+free weather api  可以用来做一个天气查询app，需要注册激活deveplor身份  
+  
 <http://www.bejson.com/go.php?u=http://www.bejson.com/webInterface.php>  一些资源接口，都返回Json格式数据  
 
-https://wri.pe/  开源markdown记事本  基于ruby rails 。 github地址: <https://github.com/masuidrive/open-wripe>    
+[开源markdown记事本](https://wri.pe/), 基于ruby rails . github地址: <https://github.com/masuidrive/open-wripe>    
 
 <http://codecombat.com/> code Combat . 游戏的方式学习编程，学习JS   让枯燥的编程学习变得有趣
 
