@@ -77,7 +77,6 @@ tags: []
 
 
 学到个不错的学习方法，去stackoverflow上刷iOS问题，还能顺便练习英语。
-
 除了访问Stack Overflow主站以外，还可以使用标签来浏览iOS开发的相关主题：
 <http://stackoverflow.com/questions/tagged/objective-c>  
 <http://stackoverflow.com/questions/tagged/iphone>  
