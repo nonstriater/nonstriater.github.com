@@ -138,7 +138,7 @@ free weather api  可以用来做一个天气查询app，需要注册激活devep
 
 <http://www.bejson.com/go.php?u=http://www.bejson.com/webInterface.php>  一些资源接口，都返回Json格式数据  
 
-<https://wri.pe/>  开源markdown记事本  基于ruby rails 。 github地址: <https://github.com/masuidrive/open-wripe>    
+https://wri.pe/  开源markdown记事本  基于ruby rails 。 github地址: <https://github.com/masuidrive/open-wripe>    
 
 <http://codecombat.com/> code Combat . 游戏的方式学习编程，学习JS   让枯燥的编程学习变得有趣
 
