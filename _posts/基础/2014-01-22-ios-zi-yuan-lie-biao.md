@@ -30,6 +30,8 @@ tags: []
    
 <http://wufawei.com/>       吴发伟@Ted博客,其还维护一个网站<http://news.ios-wiki.com/news> ,每周都有好的文章推荐    
 <http://danqingdani.blog.163.com/> or <http://blog.csdn.net/yiyaaixuexi/>     @碳基体  
+<http://bbs.pediy.com/>  看雪论坛,学习逆向和黑客技术的好去处  
+
 
 <http://blog.codingnow.com/>  风云的博客  
 
@@ -38,11 +40,18 @@ tags: []
 <http://www.taobaotest.com/>   淘测试  
 <http://code4app.com>   分类良好的代码demo   
   
+酷壳 - CoolShell.cn  
+<http://coolshell.cn/feed>  
+ 阮一峰的网络日志  
+<http://www.ruanyifeng.com/blog/atom.xml>  
+ MacTalk-池建强的随想录  
+<http://macshuo.com/?feed=rss2>  
+
 
 <br/>
 ###国外
 
-[苹果的开发者文档](https://developer.apple.com/library/prerelease/ios/navigation/)  
+[苹果的开发者文档](https://developer.apple.com/library/prerelease/ios/navigation/)苹果公开源码  <http://opensource.apple.com/source/>  
 [Apple Developer Forums 苹果开发者官方论坛](<https://devforums.apple.com/index.jspa>)  
 <http://github.com>    
 <http://stackoverflow.com>   
@@ -67,6 +76,15 @@ tags: []
 <http://www.cocoacontrols.com/>  UI相关的一些开源组件
 
 
+学到个不错的学习方法，去stackoverflow上刷iOS问题，还能顺便练习英语。
+
+除了访问Stack Overflow主站以外，还可以使用标签来浏览iOS开发的相关主题：
+http://stackoverflow.com/questions/tagged/objective-c  
+http://stackoverflow.com/questions/tagged/iphone  
+http://stackoverflow.com/questions/tagged/xcode  
+http://stackoverflow.com/questions/tagged/ios  
+
+
 <br/>
 ###设计灵感
 <br/>  
@@ -75,7 +93,7 @@ tags: []
 <http://www.flaticon.com/>    图标集合，还有一个PS插件  
 <http://www.iconfinder.com/>  
 <http://findicons.com/>  
-  
+<http://www.iconfont.cn/>   阿里巴巴图标站  
   
 *分类的UI设计图网站*  
    
@@ -102,9 +120,10 @@ tags: []
   
 <br/>
 ###书籍
+
 《Cocos2d-x高级开发教程》    
 《Objective-C高级编程:iOS与OS X多线程和内存管理》  
-《Cocoa 设计模式》    
+《Cocoa 设计模式》 
 
 《Test-Driven iOS Development》  
 《Test-Driven Development By Example》 测试驱动开发  
@@ -112,9 +131,16 @@ tags: []
 
 <br/>
 ###其他资源
-https://koding.com  在线编程平台，社区。提供一台免费的虚拟机  
-free weather api ： <http://developer.worldweatheronline.com/io-docs>   
-可以用来做一个天气查询app，需要注册激活deveplor身份
+https://koding.com  在线编程平台，社区。提供一台免费的虚拟机 
+<https://www.zybuluo.com/mdeditor>  不错的markdown在线编辑阅读器 
+<http://developer.worldweatheronline.com/io-docs>   
+free weather api  可以用来做一个天气查询app，需要注册激活deveplor身份
+
+<http://www.bejson.com/go.php?u=http://www.bejson.com/webInterface.php>  一些资源接口，都返回Json格式数据  
+
+<https://wri.pe/>  开源markdown记事本  基于ruby rails 。 github地址: <https://github.com/masuidrive/open-wripe>    
+
+<http://codecombat.com/> code Combat . 游戏的方式学习编程，学习JS   让枯燥的编程学习变得有趣
 
 
 <br/>
