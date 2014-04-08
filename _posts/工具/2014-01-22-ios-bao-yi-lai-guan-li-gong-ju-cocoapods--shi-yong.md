@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "iOS包依赖管理工具cocoaPods 使用"
+title: "iOS包依赖管理工具cocoapods的安装和使用"
 description: ""
 category: "工具"
 tags: []
@@ -17,8 +17,10 @@ cocoaPods是第三方库管理工具，他可以帮我们导入第三方源码�
 
 CocoaPods是使用 ruby gem 分发的，，在mac下只需要运行简单的命令就可安装cocoaPods：
 ```sh
-gem install cocoaPods
+ sudo gem install cocoaPods
 ```
+这个命令要写系统文件，普通用户没有权限，需要用sudo切换到超级用户，才可以执行  
+
 升级：
 ```sh
  sudo gem update cocoapods
