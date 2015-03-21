@@ -6,7 +6,7 @@ category: "iOS开发"
 tags: []
 ---
 
-
+<br/> 
 
 ###国内
 
@@ -33,21 +33,18 @@ tags: []
 <http://bbs.pediy.com/>  看雪论坛,学习逆向和黑客技术的好去处  
 
 
-<http://blog.codingnow.com/>  风云的博客  
-
 <http://www.iosfeed.com/>  由@许小帅 维护的一个网站，推荐一些有质量的介绍iOS的文章    
 <http://cocoachina.com> 推荐看下[cocoachina每周精华](http://www.cocoachina.com/special/jinghua/)   
 <http://www.taobaotest.com/>   淘测试  
 <http://code4app.com>   分类良好的代码demo   
   
-酷壳 - CoolShell.cn  
-<http://coolshell.cn/feed>  
- 阮一峰的网络日志  
-<http://www.ruanyifeng.com/blog/atom.xml>  
- MacTalk-池建强的随想录  
-<http://macshuo.com/?feed=rss2>  
+ 
+<http://coolshell.cn/feed>   酷壳 - CoolShell.cn 
+<http://www.ruanyifeng.com/blog/atom.xml>   阮一峰的网络日志  
+<http://macshuo.com/?feed=rss2>  MacTalk-池建强的随想录 
+<http://blog.codingnow.com/>  风云的博客  
 
-
+<br/> 
 
 ###国外
 
@@ -76,14 +73,13 @@ tags: []
 <http://www.cocoacontrols.com/>  UI相关的一些开源组件
 
 
-学到个不错的学习方法，去stackoverflow上刷iOS问题，还能顺便练习英语。
-除了访问Stack Overflow主站以外，还可以使用标签来浏览iOS开发的相关主题：
+学到个不错的学习方法，去stackoverflow上刷iOS问题，还能顺便练习英语。除了访问Stack Overflow主站以外，还可以使用标签来浏览iOS开发的相关主题：
 <http://stackoverflow.com/questions/tagged/objective-c>  
 <http://stackoverflow.com/questions/tagged/iphone>  
 <http://stackoverflow.com/questions/tagged/xcode>  
 <http://stackoverflow.com/questions/tagged/ios>  
 
-
+<br/> 
 
 ###设计灵感
 <br/>  
@@ -116,7 +112,7 @@ tags: []
 <http://www.4399.com/>    
   
   
-  
+<br/>  
 
 ###书籍
 
@@ -128,6 +124,8 @@ tags: []
 《Test-Driven Development By Example》 测试驱动开发  
 《代码的未来》  
 
+
+<br/> 
 
 ###其他资源
 [在线编程koding](https://koding.com)  在线编程平台，社区。提供一台免费的虚拟机 
@@ -141,7 +139,7 @@ free weather api  可以用来做一个天气查询app，需要注册激活devep
 
 <http://codecombat.com/> code Combat . 游戏的方式学习编程，学习JS   让枯燥的编程学习变得有趣
 
-
+<br/> 
 
 ###另外
 
