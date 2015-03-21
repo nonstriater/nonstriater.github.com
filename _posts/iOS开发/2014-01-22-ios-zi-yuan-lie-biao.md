@@ -48,7 +48,7 @@ tags: []
 <http://macshuo.com/?feed=rss2>  
 
 
-<br/>  
+
 ###国外
 
 [苹果的开发者文档](https://developer.apple.com/library/prerelease/ios/navigation/)苹果公开源码  <http://opensource.apple.com/source/>  
@@ -84,7 +84,7 @@ tags: []
 <http://stackoverflow.com/questions/tagged/ios>  
 
 
-<br/>
+
 ###设计灵感
 <br/>  
 *UI图标网站*
@@ -117,7 +117,7 @@ tags: []
   
   
   
-<br/>
+
 ###书籍
 
 《Cocos2d-x高级开发教程》    
@@ -128,7 +128,7 @@ tags: []
 《Test-Driven Development By Example》 测试驱动开发  
 《代码的未来》  
 
-<br/>
+
 ###其他资源
 [在线编程koding](https://koding.com)  在线编程平台，社区。提供一台免费的虚拟机 
 不错的markdown在线编辑阅读器-[mdeditor](https://www.zybuluo.com/mdeditor)  
@@ -142,7 +142,7 @@ free weather api  可以用来做一个天气查询app，需要注册激活devep
 <http://codecombat.com/> code Combat . 游戏的方式学习编程，学习JS   让枯燥的编程学习变得有趣
 
 
-<br/>
+
 ###另外
 
 <http://www.weibo.com>  微博圈子  
