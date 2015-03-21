@@ -2,7 +2,7 @@
 layout: post
 title: "iOS资源列表"
 description: ""
-category: "基础"
+category: "iOS开发"
 tags: []
 ---
 
@@ -104,7 +104,7 @@ tags: []
   
 <http://subtlepatterns.com/>   背景纹理图案  也提供PS插件  
   
-*工具*  
+*设计工具*  
 - [DevRocket](http://devrocket.uiparade.com/)   19$  PS插件 加速iOS UI设计  
 - 使用google图片搜索工具：如iOS 7 style icon     
   
@@ -149,8 +149,14 @@ free weather api  可以用来做一个天气查询app，需要注册激活devep
 <http://zhifu.com>  知乎  
    
 
-PS: mardown文章中得链接(<>格式)里面必须是”http“开头，而不能是“https”，坑爹啊~  
+PS: markdown文章中的链接(<>格式)里面必须是”http“开头，而不能是“https”，坑爹啊~  
 不能出现单独的"星号"~  
-不能出现单独的"中括号”,Objective-C的方法写法带有"中括号",注意写到代码块里面~  
+不能出现单独的"中括号”,Objective-C的方法写法带有"中括号",注意写到代码块里面~
+   
+   
+  
+  
+   
+
 
 
