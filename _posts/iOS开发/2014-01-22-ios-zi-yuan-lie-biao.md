@@ -82,7 +82,7 @@ tags: []
 <br/> 
 
 ###设计灵感
-<br/>  
+  
 *UI图标网站*
   
 <http://www.flaticon.com/>    图标集合，还有一个PS插件  
@@ -109,26 +109,14 @@ tags: []
   
 <http://flash.5068.com/wan/35829.html>  
 <http://www.3366.com/>      
-<http://www.4399.com/>    
-  
-  
-<br/>  
-
-###书籍
-
-《Cocos2d-x高级开发教程》    
-《Objective-C高级编程:iOS与OS X多线程和内存管理》  
-《Cocoa 设计模式》 
-
-《Test-Driven iOS Development》  
-《Test-Driven Development By Example》 测试驱动开发  
-《代码的未来》  
+<http://www.4399.com/>      
 
 
 <br/> 
 
 ###其他资源
-[在线编程koding](https://koding.com)  在线编程平台，社区。提供一台免费的虚拟机 
+
+[在线编程koding](https://koding.com)  在线编程平台社区。提供一台免费的虚拟机 
 不错的markdown在线编辑阅读器-[mdeditor](https://www.zybuluo.com/mdeditor)  
 <http://developer.worldweatheronline.com/io-docs>   
 free weather api  可以用来做一个天气查询app，需要注册激活deveplor身份  
@@ -137,7 +125,7 @@ free weather api  可以用来做一个天气查询app，需要注册激活devep
 
 [开源markdown记事本](https://wri.pe/), 基于ruby rails . github地址: <https://github.com/masuidrive/open-wripe>    
 
-<http://codecombat.com/> code Combat . 游戏的方式学习编程，学习JS   让枯燥的编程学习变得有趣
+<http://codecombat.com/> code Combat .游戏的方式学习编程，学习JS让枯燥的编程学习变得有趣
 
 <br/> 
 
