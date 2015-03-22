@@ -43,7 +43,7 @@
 .tag_box.inline li {
   float: left; }
 
-.tag_box a {
+.tag_box a p {
   padding: 3px 6px;
   margin: 2px;
   background: #eee;
