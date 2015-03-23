@@ -9,7 +9,7 @@ tagline:
 ##My Posts
 
 {% for category in site.categories %}
-<a class="tag_box inline">{{ category[0] | join: "/" }}</a>
+<p class="tag_box inline">{{ category[0] | join: "/" }}</p>
 <ul class="posts">
     {% for post in category[1] %}
     <li style="list-style:none; margin-bottom:3px; line-height:1.7; letter-spacing:1px; font-size:18px">
