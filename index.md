@@ -6,7 +6,6 @@ tagline:
 
 {% include JB/setup %}
 
-##My Posts
 
 {% for category in site.categories %}
 <p><a style="padding: 3px 6px; margin: 2px;background: #eee;color: #555;border-radius: 3px;text-decoration: none;border: 1px dashed #cccccc;">{{ category[0] | join: "/" }}</a></p>
