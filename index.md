@@ -6,8 +6,8 @@ tagline:
 
 {% include JB/setup %}
 
-<br/>
-<br/>
+<br />
+<br />
 {% for category in site.categories %}
 <p><a style="padding: 3px 6px; margin: 2px;background: #eee;color: #555;border-radius: 3px;text-decoration: none;border: 1px dashed #cccccc;">{{ category[0] | join: "/" }}</a></p>
 <ul class="posts">
@@ -20,8 +20,8 @@ tagline:
 </ul>
 {% endfor %}
 
-<br/>
-<br/>
+<br />
+<br />
 ##Contact me
 <ul style="line-height: 1.7; letter-spacing:1px; color:gray;">
     <li style="list-style:none; margin-bottom:3px;">Weibo  : <a href="http://weibo.com/ranwj">@移动开发小冉</a>  </li>
